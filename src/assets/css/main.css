@@ -1,0 +1,7 @@
+/* import custom font  */
+
+
+p {
+  @apply font-lato text-base
+}
+
